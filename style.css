@@ -1,0 +1,33 @@
+/* heder styles */
+.header_bg{
+    background: #FFF9F4;
+}
+
+.hero-orange-text{
+    color: #FA804C;
+}
+.hero-blue-text{
+    color: #363958;
+}
+.gradient-button{
+    padding: 18px 34px;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.shoe-bg{
+    background: #F1F1F1;
+    border-radius: 20px;
+}
+
+.rounded-card{
+    border-radius: 20px;
+    padding: 18px;
+}
+.single-div{
+    border-radius: 20px;
+}
