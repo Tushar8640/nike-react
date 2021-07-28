@@ -1,15 +1,17 @@
 /* heder styles */
-.header_bg{
+.header_bg {
     background: #FFF9F4;
 }
 
-.hero-orange-text{
+.hero-orange-text {
     color: #FA804C;
 }
-.hero-blue-text{
+
+.hero-blue-text {
     color: #363958;
 }
-.gradient-button{
+
+.gradient-button {
     padding: 18px 34px;
     border: none;
     color: #fff;
@@ -19,15 +21,16 @@
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
 }
 
-.shoe-bg{
+.shoe-bg {
     background: #F1F1F1;
     border-radius: 20px;
 }
 
-.rounded-card{
+.rounded-card {
     border-radius: 20px;
     padding: 18px;
 }
-.single-div{
+
+.single-div {
     border-radius: 20px;
 }
